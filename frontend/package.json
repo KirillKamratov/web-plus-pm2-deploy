@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && scp -Сr ./build/* kirillkamratov@51.250.21.57:/home/kirillkamratov/web-plus-pm2-deploy/mesto-frontend"
+    "deploy": "npm run build && scp -Сr ./build/* kirillkamratov@51.250.21.57:/home/kirillkamratov/web-plus-pm2-deploy/frontend"
   },
   "eslintConfig": {
     "extends": [
