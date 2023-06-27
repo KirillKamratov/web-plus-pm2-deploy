@@ -6,6 +6,6 @@
 
 Ip: 51.250.21.57
 
-frontend: http://kirillkamratov.domain.nomoreparties.sbs/signin
+frontend: http://kamratov.students.nomoreparties.sbs/signin
 
-backend http://api.kkamratov.students.nomoreparties.sbs/
+backend http://api.kamratov.students.nomoreparties.sbs/
